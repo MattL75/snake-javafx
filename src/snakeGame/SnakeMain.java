@@ -25,6 +25,8 @@ public class SnakeMain extends Application {
 		launch(args);
 	}
 	
+	//TESTING
+	
 	//Copperplate Gothic Bold
 	//Franklin Gothic Medium
 	//Cambria
