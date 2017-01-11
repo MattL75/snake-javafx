@@ -25,11 +25,6 @@ public class SnakeMain extends Application {
 		launch(args);
 	}
 	
-	//TESTING
-	
-	//Copperplate Gothic Bold
-	//Franklin Gothic Medium
-	//Cambria
 	Font bigFont = new Font("Lucida Handwriting Italic", 50);
 	Font smallFont = new Font(10);
 	VBox vert;
